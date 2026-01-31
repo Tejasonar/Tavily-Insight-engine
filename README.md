@@ -63,5 +63,5 @@ It delivers **trusted, up-to-date information**, supports **source comparison**,
 | **python-dotenv** | Environment variables |
 
 
-## 📁 Project Structure
+
 
