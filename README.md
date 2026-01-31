@@ -46,7 +46,6 @@ It delivers **trusted, up-to-date information**, supports **source comparison**,
   - Sources
   - Confidence Score
 - Useful for:
-  - Python vs Java
   - Product comparisons
   - Technology analysis
 
