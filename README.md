@@ -1,4 +1,4 @@
-# Tavily-Insight-engine
+
 # Tavily Insight Engine 🔍🤖
 
 A **real-time AI-powered web research chatbot** built with **Streamlit** and **Tavily API**.  
